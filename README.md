@@ -26,6 +26,7 @@ If you're here to:
 
 Please email: `wordforgeengine@gmail.com`  
 Or visit: Please email: wordforgeengine@gmail.com  
-Or visit: **[WordForge Public Interface (Demo)](https://mike3253.github.io/WordForgeEnginewitness/)**
+Or visit: **[WordForge Public Interface (Demo)]**
+**(https://mike3253.github.io/WordForgeEnginewitness/)**
 
 ---
