@@ -25,6 +25,7 @@ If you're here to:
 - Offer support or join the cause
 
 Please email: `wordforgeengine@gmail.com`  
-Or visit: **[WordForge Public Interface (Demo)](https://mike3253.github.io/Wordforgeengine-Demo/)**
+Or visit: Please email: wordforgeengine@gmail.com  
+Or visit: **[WordForge Public Interface (Demo)](https://mike3253.github.io/WordForgeEnginewitness/)**
 
 ---
