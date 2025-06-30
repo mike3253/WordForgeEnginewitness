@@ -1,0 +1,7 @@
+Event Type: DNS-based MITM attack  
+Detected: June 30, 2025 – 01:24 UTC  
+Spoofed IPs: 142.250.196.142, 104.21.6.105  
+Observed Activity: Fake DNS redirection, injection of unknown JavaScript into outgoing traffic  
+Triggered By: WordForge Interface activity ping  
+Trace Level: Tier 2.5 (Requires secure snapshot for matching known attack profiles)  
+Status: Forensic dump sent to private vault and staging ready for public summary.
